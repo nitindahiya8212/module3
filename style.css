@@ -1,0 +1,57 @@
+.navbar-brand.navbarname{
+    padding-left: 10px ;
+    font-weight: bold;
+    font-size: 27px;
+    color:#408fde !important;
+  }
+  
+  header .navbar {
+    padding:0 !important;
+  }
+  .navbar .toggle_btn {
+    margin:10px !important;
+  }
+  .navbar-brand h1{
+    font-weight: bold;
+    float: left;
+  }
+  .navbar .lists{
+    text-align: center;
+  }
+  .navbar-toggle .icon-bar{
+    float: right;
+    padding: 10px;
+    margin-top:10px;
+    background: transparent;
+  }
+  .row.menu{
+    font-size:2rem;
+  }
+  .row.chart{
+    text-align: center;
+  }
+  
+  .menu-header{
+    font-size:25px;
+    font-weight: 600;
+  } 
+  .head.food{
+    margin-top:10px;
+    background-color: #e2dede;
+  }
+  .lists li {
+    border-bottom: 1.5px solid rgba(0,0,0,0.3);
+  }
+  .lists li >a {
+    color: black !important;
+  }
+  .container h1{
+    text-transform: capitalize;
+    font-size: 1.5rem;
+  }
+  p{
+    text-align: left;
+    font-size: 15px;
+    font-weight: 500;
+    padding: 10px;
+  }
